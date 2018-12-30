@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://erfannoury.github.io/publii-test/pst-dwm.html",
+            "url": "https://erfannoury.github.io/publii-test/pst-dwm.html",
+            "title": "پست دوم",
+            "summary": "به نامه خدا این پست دومین پست برای امتحان قابلیت‌های این سیستم&hellip;",
+            "content_html": "<p>به نامه خدا</p>\n<p>این پست دومین پست برای امتحان قابلیت‌های این سیستم و همچنین به اشتراک‌گذاری همه‌ی فایل‌های لازم هست.</p>\n<p>امیدوارم که در نهایت این موضوع به نتیجه‌ای قابل قبول برسد.</p>",
+            "image": "https://erfannoury.github.io/publii-test/media/posts/2/",
+            "author": {
+                "name": "Erfan"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-12-30T16:03:52-05:00",
+            "date_modified": "2018-12-30T16:03:59-05:00"
+        },
+        {
             "id": "https://erfannoury.github.io/publii-test/test.html",
             "url": "https://erfannoury.github.io/publii-test/test.html",
             "title": "Test",

@@ -3,12 +3,36 @@
     <title>Chand</title>
     <link href="https://erfannoury.github.io/publii-test/feed.xml" rel="self" />
     <link href="https://erfannoury.github.io/publii-test" />
-    <updated>2018-12-30T04:31:45-05:00</updated>
+    <updated>2018-12-30T16:04:18-05:00</updated>
     <author>
         <name>Erfan</name>
     </author>
     <id>https://erfannoury.github.io/publii-test</id>
 
+    <entry>
+        <title>پست دوم</title>
+        <author>
+            <name>Erfan</name>
+        </author>
+        <link href="https://erfannoury.github.io/publii-test/pst-dwm.html"/>
+        <id>https://erfannoury.github.io/publii-test/pst-dwm.html</id>
+
+        <updated>2018-12-30T16:03:59-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://erfannoury.github.io/publii-test/media/posts/2/" alt="" />
+                    به نامه خدا این پست دومین پست برای امتحان قابلیت‌های این سیستم&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://erfannoury.github.io/publii-test/media/posts/2/" alt="" />
+                <p>به نامه خدا</p>
+<p>این پست دومین پست برای امتحان قابلیت‌های این سیستم و همچنین به اشتراک‌گذاری همه‌ی فایل‌های لازم هست.</p>
+<p>امیدوارم که در نهایت این موضوع به نتیجه‌ای قابل قبول برسد.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test</title>
         <author>
